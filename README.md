@@ -76,7 +76,6 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="schroedermarius streak" src="https://streak-stats.demolab.com/?user=schroedermarius&theme=monokai-metallian" width="450px"/>  
     <img alt="schroedermarius Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=schroedermarius&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
   </div>
-  <br>
   <div align=center>
       <img alt="schroedermarius Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tsjdev-apps&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
   </div>
