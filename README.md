@@ -92,10 +92,10 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   grid-snake -->
-![Schroedermarius github activity graph](https://raw.githubusercontent.com/schroedermarius/schroedermarius/output/github-contribution-grid-snake.svg)
+![Schroedermarius github activity graph](https://raw.githubusercontent.com/schroedermarius/schroedermarius/snake-output/github-contribution-grid-snake.svg)
 
 <!--   profile-green-animate -->
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
+![Schroedermarius profile 3d](https://raw.githubusercontent.com/schroedermarius/schroedermarius/profile3d-output/profile-green-animate.svg)
 
 <!--  2d history skills -->
 
@@ -104,10 +104,10 @@
 **📫 How to Reach me:**
 
 <p align="left">
-<a href="https://twitter.com/Marius_Sch" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/master/assets/twitter.svg" alt="Marius_Sch" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/marius-schr%C3%B6der-5692a2191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/master/assets/linkedin.svg" alt="marius-schröder-5692a2191" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/4198052/marius" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/master/assets/stackoverflow.svg" alt="marius" height="30" width="30" /></a>
-<a href="https://linktr.ee/marius_schroeder" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/master/assets/linktree.svg" alt="marius_schroeder" height="30" width="30" /></a>
+<a href="https://twitter.com/Marius_Sch" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/main/assets/twitter.svg" alt="Marius_Sch" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/marius-schr%C3%B6der-5692a2191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/main/assets/linkedin.svg" alt="marius-schröder-5692a2191" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/4198052/marius" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/main/assets/stackoverflow.svg" alt="marius" height="30" width="30" /></a>
+<a href="https://linktr.ee/marius_schroeder" target="blank"><img align="center" src="https://raw.githubusercontent.com/schroedermarius/schroedermarius/main/assets/linktree.svg" alt="marius_schroeder" height="30" width="30" /></a>
 
 </p>
 
