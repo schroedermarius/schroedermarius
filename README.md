@@ -91,19 +91,15 @@
 
 ### 📈 GitHub Activity Graph:
 
+<!--   grid-snake -->
 ![Schroedermarius github activity graph](https://raw.githubusercontent.com/schroedermarius/schroedermarius/output/github-contribution-grid-snake.svg)
 
 <!--   profile-green-animate -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-
-![](https://github.com/schroedermarius/schroedermarius/blob/output/github-contribution-grid-snake.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!--  2d history skills -->
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=schroedermarius" width="auto"></img>
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=schroedermarius" width="auto"></img> -->
 
 **📫 How to Reach me:**
 
@@ -115,7 +111,7 @@
 
 </p>
 
-<img src="./github-metrics.svg" alt="Metrics" width="100%">
+<!-- <img src="./github-metrics.svg" alt="Metrics" width="100%"> -->
 
 #### Thanks for visiting :heart:
 
