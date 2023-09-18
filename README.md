@@ -29,6 +29,11 @@
   <br>
 </ul>
 
+
+### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
+<!-- MEDIUM-BLOG-POST-LIST:START -->
+<!-- MEDIUM-BLOG-POST-LIST:END -->
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
