@@ -18,6 +18,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@mariusschroeder"
+          feed_list: "https://medium.com/feed/@mariusschroeder"
           comment_tag_name: "MEDIUM-BLOG-POST-LIST"
           max_post_count: 7
