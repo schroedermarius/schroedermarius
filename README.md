@@ -32,13 +32,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Unveiling QuestPDF: Simplifying PDF Generation with SkiaSharp](https://medium.com/medialesson/unveiling-questpdf-simplifying-pdf-generation-with-skiasharp-da843b741508?source=rss-4bc650e7a5a6------2)
 - [Navigating NGRX Effects in Angular: Unraveling the switchMap vs. mergeMap Conundrum](https://medium.com/medialesson/navigating-ngrx-effects-in-angular-unraveling-the-switchmap-vs-mergemap-conundrum-393d65a0dc8f?source=rss-4bc650e7a5a6------2)
 - [Generating a curved text in .NET](https://medium.com/medialesson/generating-a-curved-text-in-net-d8a38209c5e2?source=rss-4bc650e7a5a6------2)
 - [How to deploy your custom image to an Microsoft Azure VM](https://medium.com/medialesson/how-to-deploy-your-custom-image-to-an-microsoft-azure-vm-e1d960e85f58?source=rss-4bc650e7a5a6------2)
 - [How to write your own discord bot on .NET 6](https://medium.com/medialesson/how-to-write-your-own-discord-bot-on-net-6-ac96e40467b8?source=rss-4bc650e7a5a6------2)
 - [Build resilient IoT solutions using multiple connections in Azure IoT Edge gateways](https://medium.com/medialesson/build-resilient-iot-solutions-using-multiple-connections-in-azure-iot-edge-gateways-9787fdb07325?source=rss-4bc650e7a5a6------2)
 - [ESP32 based over-the-air update using Azure IoT Device Twins](https://medium.com/medialesson/esp32-based-over-the-air-update-using-azure-iot-device-twins-aca4ce22e429?source=rss-4bc650e7a5a6------2)
-- [Export SCSS variables](https://medium.com/@mariusschroeder/export-scss-variables-435b6e784302?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
