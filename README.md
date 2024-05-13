@@ -19,7 +19,7 @@
 
 <!--   my-info -->
 <br>
-<p>Hi, I'm Marius Schröder, Senior Software Engineer & Team Lead @medialesson</p>
+<p>Hi, I'm Marius Schröder, Senior Software Engineer & Team Lead @Medialesson</p>
 <ul>
   <li>💻 I love writing code and learn anythings about it</li>
   <li>💻 I am a passionate developer from Germany</li>
