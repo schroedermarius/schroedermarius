@@ -32,13 +32,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [An Adventue in Modern Web Hosting](https://medium.com/medialesson/an-adventue-in-modern-web-hosting-74ab5563064d?source=rss-4bc650e7a5a6------2)
 - [Easy Integration of Transloco to NX Angular Libraries using Scoped Translations](https://medium.com/medialesson/easy-integration-of-transloco-to-nx-angular-libraries-using-scoped-translations-82ad46bce6c8?source=rss-4bc650e7a5a6------2)
 - [Building Arm64 Docker Images with .NET 8: A Quick Solution](https://medium.com/medialesson/building-arm64-docker-images-with-net-8-a-quick-solution-5491a94eb507?source=rss-4bc650e7a5a6------2)
 - [Unveiling QuestPDF: Simplifying PDF Generation with SkiaSharp](https://medium.com/medialesson/unveiling-questpdf-simplifying-pdf-generation-with-skiasharp-da843b741508?source=rss-4bc650e7a5a6------2)
 - [Navigating NGRX Effects in Angular: Unraveling the switchMap vs. mergeMap Conundrum](https://medium.com/medialesson/navigating-ngrx-effects-in-angular-unraveling-the-switchmap-vs-mergemap-conundrum-393d65a0dc8f?source=rss-4bc650e7a5a6------2)
 - [Generating a curved text in .NET](https://medium.com/medialesson/generating-a-curved-text-in-net-d8a38209c5e2?source=rss-4bc650e7a5a6------2)
 - [How to deploy your custom image to an Microsoft Azure VM](https://medium.com/medialesson/how-to-deploy-your-custom-image-to-an-microsoft-azure-vm-e1d960e85f58?source=rss-4bc650e7a5a6------2)
-- [How to write your own discord bot on .NET 6](https://medium.com/medialesson/how-to-write-your-own-discord-bot-on-net-6-ac96e40467b8?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
