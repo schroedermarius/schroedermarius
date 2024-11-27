@@ -32,13 +32,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Building Brick City: The Smarter Way to Light Up Your Lego World](https://medium.com/medialesson/building-brick-city-the-smarter-way-to-light-up-your-lego-world-ec9770775443?source=rss-4bc650e7a5a6------2)
 - [Writing a Shared Component Library for Your Blazor WebAssembly Application](https://medium.com/medialesson/writing-a-shared-component-library-for-your-blazor-webassembly-application-de45fe019d9b?source=rss-4bc650e7a5a6------2)
 - [Keeping Commands Internal with InternalsVisibleTo for Smarter Provider Design](https://medium.com/medialesson/keeping-commands-internal-with-internalsvisibleto-for-smarter-provider-design-701d5e13f376?source=rss-4bc650e7a5a6------2)
 - [Configuring Scoped Settings from App Configurations or Secrets and injecting them into Providers](https://medium.com/medialesson/configuring-scoped-settings-from-app-configurations-or-secrets-and-injecting-them-into-providers-3ceed62a1c99?source=rss-4bc650e7a5a6------2)
 - [Building Upon a Solid Foundation](https://medium.com/medialesson/building-upon-a-solid-foundation-2bf4e4608407?source=rss-4bc650e7a5a6------2)
 - [An Adventue in Modern Web Hosting](https://medium.com/medialesson/an-adventue-in-modern-web-hosting-74ab5563064d?source=rss-4bc650e7a5a6------2)
 - [Easy Integration of Transloco to NX Angular Libraries using Scoped Translations](https://medium.com/medialesson/easy-integration-of-transloco-to-nx-angular-libraries-using-scoped-translations-82ad46bce6c8?source=rss-4bc650e7a5a6------2)
-- [Building Arm64 Docker Images with .NET 8: A Quick Solution](https://medium.com/medialesson/building-arm64-docker-images-with-net-8-a-quick-solution-5491a94eb507?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
