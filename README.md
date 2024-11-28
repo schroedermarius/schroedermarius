@@ -32,7 +32,7 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
-- [Building Brick City: The Smarter Way to Light Up Your Lego World](https://medium.com/medialesson/building-brick-city-the-smarter-way-to-light-up-your-lego-world-ec9770775443?source=rss-4bc650e7a5a6------2)
+- [Building Brick City: The Smarter Way to Light Up Your Brick World](https://medium.com/medialesson/building-brick-city-the-smarter-way-to-light-up-your-lego-world-ec9770775443?source=rss-4bc650e7a5a6------2)
 - [Writing a Shared Component Library for Your Blazor WebAssembly Application](https://medium.com/medialesson/writing-a-shared-component-library-for-your-blazor-webassembly-application-de45fe019d9b?source=rss-4bc650e7a5a6------2)
 - [Keeping Commands Internal with InternalsVisibleTo for Smarter Provider Design](https://medium.com/medialesson/keeping-commands-internal-with-internalsvisibleto-for-smarter-provider-design-701d5e13f376?source=rss-4bc650e7a5a6------2)
 - [Configuring Scoped Settings from App Configurations or Secrets and injecting them into Providers](https://medium.com/medialesson/configuring-scoped-settings-from-app-configurations-or-secrets-and-injecting-them-into-providers-3ceed62a1c99?source=rss-4bc650e7a5a6------2)
