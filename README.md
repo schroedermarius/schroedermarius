@@ -32,13 +32,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Custom Callouts in ArcGIS Runtime SDK for .NET &lpar;MAUI/WPF&rpar;](https://medium.com/medialesson/custom-callouts-in-arcgis-runtime-sdk-for-net-maui-wpf-3525857ec5dc?source=rss-4bc650e7a5a6------2)
 - [Simplify Your Life: Logging to Application Insights with Serilog](https://medium.com/medialesson/simplify-your-life-logging-to-application-insights-with-serilog-a59d15280561?source=rss-4bc650e7a5a6------2)
 - [Enhancing Logging in Your Console Application with Serilog](https://medium.com/medialesson/enhancing-logging-in-your-console-application-with-serilog-5748c73373ce?source=rss-4bc650e7a5a6------2)
 - [Logging in .NET: Best Practices and Why You Should Love It](https://medium.com/medialesson/logging-in-net-best-practices-and-why-you-should-love-it-fd907f264299?source=rss-4bc650e7a5a6------2)
 - [Blazor: Writing a Shared Lottie Animation Component](https://medium.com/medialesson/blazor-writing-a-shared-lottie-animation-component-493542e247ed?source=rss-4bc650e7a5a6------2)
 - [Creating a Share Component with the Web Share API in Blazor WebAssembly](https://medium.com/medialesson/creating-a-share-component-with-the-web-share-api-in-blazor-webassembly-bdca5a68de88?source=rss-4bc650e7a5a6------2)
 - [Building Brick City: The Smarter Way to Light Up Your Brick World](https://medium.com/medialesson/building-brick-city-the-smarter-way-to-light-up-your-lego-world-ec9770775443?source=rss-4bc650e7a5a6------2)
-- [Writing a Shared Component Library for Your Blazor WebAssembly Application](https://medium.com/medialesson/writing-a-shared-component-library-for-your-blazor-webassembly-application-de45fe019d9b?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
