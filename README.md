@@ -29,6 +29,9 @@
   <br>
 </ul>
 
+### Recent Blog Posts On [Marius-Schroeder.de](https://marius-schroeder.de/blog) 📝
+<!-- MARIUS-SCHROEDER-BLOG-POST-LIST:START -->
+<!-- MARIUS-SCHROEDER-BLOG-POST-LIST:END -->
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
