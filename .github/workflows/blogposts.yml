@@ -21,3 +21,9 @@ jobs:
           feed_list: "https://medium.com/feed/@mariusschroeder"
           comment_tag_name: "MEDIUM-BLOG-POST-LIST"
           max_post_count: 7
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://marius-schroeder.de/feed"
+          comment_tag_name: "MARIUS-SCHROEDER-BLOG-POST-LIST"
+          max_post_count: 7
