@@ -31,6 +31,10 @@
 
 ### Recent Blog Posts On [Marius-Schroeder.de](https://marius-schroeder.de/blog) 📝
 <!-- MARIUS-SCHROEDER-BLOG-POST-LIST:START -->
+- [🗺️ ArcGIS Map Zooms Out Too Far? Fixing SetExtent When Graphics Share Same Coordinates](https://www.marius-schroeder.de/arcgis-map-zooms-out-too-far-fixing-setextent-when-graphics-share-same-coordinates/)
+- [Simplify your many-to-many relationships in EF Core with Skip Navigation Properties — cleaner code, no duplicate tags, and less hassle.](https://www.marius-schroeder.de/simplify-your-many-to-many-relationships-in-ef-core-with-skip-navigation-properties-cleaner-code-no-duplicate-tags-and-less-hassle/)
+- [💬 Custom Callouts in ArcGIS Runtime SDK for .NET &lpar;MAUI/WPF&rpar;](https://www.marius-schroeder.de/%f0%9f%92%ac-custom-callouts-in-arcgis-runtime-sdk-for-net-maui-wpf/)
+- [Simplify Your Life: Logging to Application Insights with Serilog](https://www.marius-schroeder.de/simplify-your-life-logging-to-application-insights-with-serilog/)
 <!-- MARIUS-SCHROEDER-BLOG-POST-LIST:END -->
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
