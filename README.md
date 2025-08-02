@@ -36,8 +36,8 @@
 - [Simplify your many-to-many relationships in EF Core with Skip Navigation Properties — cleaner code, no duplicate tags, and less hassle.](https://www.marius-schroeder.de/simplify-your-many-to-many-relationships-in-ef-core-with-skip-navigation-properties-cleaner-code-no-duplicate-tags-and-less-hassle/)
 - [💬 Custom Callouts in ArcGIS Runtime SDK for .NET &lpar;MAUI/WPF&rpar;](https://www.marius-schroeder.de/%f0%9f%92%ac-custom-callouts-in-arcgis-runtime-sdk-for-net-maui-wpf/)
 - [Simplify Your Life: Logging to Application Insights with Serilog](https://www.marius-schroeder.de/simplify-your-life-logging-to-application-insights-with-serilog/)
-- [Generating a curved text in .NET](https://www.marius-schroeder.de/generating-a-curved-text-in-net/)
-- [How to deploy your custom image to an Microsoft Azure VM](https://www.marius-schroeder.de/how-to-deploy-your-custom-image-to-an-microsoft-azure-vm/)
+- [Enhancing Logging in Your Console Application with Serilog](https://www.marius-schroeder.de/enhancing-logging-in-your-console-application-with-serilog/)
+- [Logging in .NET: Best Practices and Why You Should Love It](https://www.marius-schroeder.de/logging-in-net-best-practices-and-why-you-should-love-it/)
 <!-- MARIUS-SCHROEDER-BLOG-POST-LIST:END -->
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
