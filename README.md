@@ -42,13 +42,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Getting Azure OpenAI Realtime AI to Actually Work &lpar;Without Losing Your Sanity&rpar;](https://medium.com/medialesson/getting-azure-openai-realtime-ai-to-actually-work-without-losing-your-sanity-32af549921b4?source=rss-4bc650e7a5a6------2)
 - [Embracing .NET 9 &amp; Scalar: A New Era for API Documentation](https://medium.com/medialesson/embracing-net-9-scalar-a-new-era-for-api-documentation-8f213c1a3369?source=rss-4bc650e7a5a6------2)
 - [️ ArcGIS Map Zooms Out Too Far? Fixing SetExtent When Graphics Share Same Coordinates](https://medium.com/medialesson/%EF%B8%8F-arcgis-map-zooms-out-too-far-fixing-setextent-when-graphics-share-same-coordinates-2fe7ca62d06f?source=rss-4bc650e7a5a6------2)
 - [Simplify your many-to-many relationships in EF Core with Skip Navigation Properties — cleaner code…](https://medium.com/medialesson/simplify-your-many-to-many-relationships-in-ef-core-with-skip-navigation-properties-cleaner-code-30d7992f221c?source=rss-4bc650e7a5a6------2)
 - [Custom Callouts in ArcGIS Runtime SDK for .NET &lpar;MAUI/WPF&rpar;](https://medium.com/medialesson/custom-callouts-in-arcgis-runtime-sdk-for-net-maui-wpf-3525857ec5dc?source=rss-4bc650e7a5a6------2)
 - [Simplify Your Life: Logging to Application Insights with Serilog](https://medium.com/medialesson/simplify-your-life-logging-to-application-insights-with-serilog-a59d15280561?source=rss-4bc650e7a5a6------2)
 - [Enhancing Logging in Your Console Application with Serilog](https://medium.com/medialesson/enhancing-logging-in-your-console-application-with-serilog-5748c73373ce?source=rss-4bc650e7a5a6------2)
-- [Logging in .NET: Best Practices and Why You Should Love It](https://medium.com/medialesson/logging-in-net-best-practices-and-why-you-should-love-it-fd907f264299?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
