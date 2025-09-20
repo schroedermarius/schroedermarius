@@ -42,13 +42,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [How to Easily Connect to Amazon S3 with .NET and Dependency Injection: A Complete Guide](https://medium.com/medialesson/how-to-easily-connect-to-amazon-s3-with-net-and-dependency-injection-a-complete-guide-5325dfa6065b?source=rss-4bc650e7a5a6------2)
 - [Fast Excel Template Replacement in .NET — OpenXmlSdk vs ClosedXML](https://medium.com/medialesson/fast-excel-template-replacement-in-net-openxmlsdk-vs-closedxml-088de1079714?source=rss-4bc650e7a5a6------2)
 - [️ Installing .NET on macOS with dotnet-install.sh &lpar;and a Few Lessons Learned&rpar;](https://medium.com/medialesson/https-www-marius-schroeder-de-installing-net-on-macos-with-dotnet-install-sh-and-a-few-lessons-learned-5ffcf07e393e?source=rss-4bc650e7a5a6------2)
 - [Taming Generics, Interfaces &amp; JSON in .NET — Meet JsonPolymorphic](https://medium.com/medialesson/taming-generics-interfaces-json-in-net-meet-jsonpolymorphic-579820451bb4?source=rss-4bc650e7a5a6------2)
 - [Getting Azure OpenAI Realtime AI to Actually Work &lpar;Without Losing Your Sanity&rpar;](https://medium.com/medialesson/getting-azure-openai-realtime-ai-to-actually-work-without-losing-your-sanity-32af549921b4?source=rss-4bc650e7a5a6------2)
 - [Embracing .NET 9 &amp; Scalar: A New Era for API Documentation](https://medium.com/medialesson/embracing-net-9-scalar-a-new-era-for-api-documentation-8f213c1a3369?source=rss-4bc650e7a5a6------2)
 - [️ ArcGIS Map Zooms Out Too Far? Fixing SetExtent When Graphics Share Same Coordinates](https://medium.com/medialesson/%EF%B8%8F-arcgis-map-zooms-out-too-far-fixing-setextent-when-graphics-share-same-coordinates-2fe7ca62d06f?source=rss-4bc650e7a5a6------2)
-- [Simplify your many-to-many relationships in EF Core with Skip Navigation Properties — cleaner code…](https://medium.com/medialesson/simplify-your-many-to-many-relationships-in-ef-core-with-skip-navigation-properties-cleaner-code-30d7992f221c?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
