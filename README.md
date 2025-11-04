@@ -42,13 +42,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [JSON vs TOON — A new era of structured input?](https://medium.com/medialesson/json-vs-toon-a-new-era-of-structured-input-19cbb7fc552b?source=rss-4bc650e7a5a6------2)
 - [⚡ Real-Time Progress Updates for Long-Running API Tasks with Server-Sent Events &lpar;SSE&rpar; in ASP.NET](https://medium.com/medialesson/real-time-progress-updates-for-long-running-api-tasks-with-server-sent-events-sse-in-asp-net-1c5fdbac6065?source=rss-4bc650e7a5a6------2)
 - [How to Easily Connect to Amazon S3 with .NET and Dependency Injection: A Complete Guide](https://medium.com/medialesson/how-to-easily-connect-to-amazon-s3-with-net-and-dependency-injection-a-complete-guide-5325dfa6065b?source=rss-4bc650e7a5a6------2)
 - [Fast Excel Template Replacement in .NET — OpenXmlSdk vs ClosedXML](https://medium.com/medialesson/fast-excel-template-replacement-in-net-openxmlsdk-vs-closedxml-088de1079714?source=rss-4bc650e7a5a6------2)
 - [️ Installing .NET on macOS with dotnet-install.sh &lpar;and a Few Lessons Learned&rpar;](https://medium.com/medialesson/https-www-marius-schroeder-de-installing-net-on-macos-with-dotnet-install-sh-and-a-few-lessons-learned-5ffcf07e393e?source=rss-4bc650e7a5a6------2)
 - [Taming Generics, Interfaces &amp; JSON in .NET — Meet JsonPolymorphic](https://medium.com/medialesson/taming-generics-interfaces-json-in-net-meet-jsonpolymorphic-579820451bb4?source=rss-4bc650e7a5a6------2)
 - [Getting Azure OpenAI Realtime AI to Actually Work &lpar;Without Losing Your Sanity&rpar;](https://medium.com/medialesson/getting-azure-openai-realtime-ai-to-actually-work-without-losing-your-sanity-32af549921b4?source=rss-4bc650e7a5a6------2)
-- [Embracing .NET 9 &amp; Scalar: A New Era for API Documentation](https://medium.com/medialesson/embracing-net-9-scalar-a-new-era-for-api-documentation-8f213c1a3369?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
