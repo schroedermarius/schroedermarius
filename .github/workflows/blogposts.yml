@@ -24,7 +24,7 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.marius-schroeder.de/feed/"
+          feed_list: "https://marius-schroeder.de/feed.xml"
           comment_tag_name: "MARIUS-SCHROEDER-BLOG-POST-LIST"
           max_post_count: 7
           user_agent: 'Mozilla/5.0 (compatible; GitHubActionBot/1.0; +https://github.com/schroedermarius/schroedermarius)'
