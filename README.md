@@ -31,13 +31,13 @@
 
 ### Recent Blog Posts On [Marius-Schroeder.de](https://marius-schroeder.de/blog) 📝
 <!-- MARIUS-SCHROEDER-BLOG-POST-LIST:START -->
+- [Combining Upload Progress with API Progress 🚀](https://marius-schroeder.de/posts/combining-upload-progress-with-api-progress/)
 - [JSON vs TOON — A new era of structured input?](https://marius-schroeder.de/posts/json-vs-toon-a-new-era-of-structured-input/)
 - [⚡ Real-Time Progress Updates for Long-Running API Tasks with Server-Sent Events &lpar;SSE&rpar; in ASP.NET Core](https://marius-schroeder.de/posts/real-time-progress-updates-for-long-running-api-tasks-with-server-sent-events-sse-in-asp-net-core/)
 - [How to Easily Connect to Amazon S3 with .NET and Dependency Injection: A Complete Guide](https://marius-schroeder.de/posts/how-to-easily-connect-to-amazon-s3-with-net-and-dependency-injection-a-complete-guide/)
 - [📊 Fast Excel Template Replacement in .NET — OpenXmlSdk vs ClosedXML](https://marius-schroeder.de/posts/fast-excel-template-replacement-in-net-openxmlsdk-vs-closedxml/)
 - [🖥️ Installing .NET on macOS with dotnet-install.sh &lpar;and a Few Lessons Learned&rpar;](https://marius-schroeder.de/posts/installing-net-on-macos-with-dotnet-install-sh-and-a-few-lessons-learned/)
 - [🧩 Taming Generics, Interfaces &amp; JSON in .NET — Meet JsonPolymorphic](https://marius-schroeder.de/posts/taming-generics-interfaces-json-in-net-meet-jsonpolymorphic/)
-- [🚀 Getting Azure OpenAI Realtime AI to Actually Work &lpar;Without Losing Your Sanity&rpar;](https://marius-schroeder.de/posts/getting-azure-openai-realtime-ai-to-actually-work-without-losing-your-sanity/)
 <!-- MARIUS-SCHROEDER-BLOG-POST-LIST:END -->
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
