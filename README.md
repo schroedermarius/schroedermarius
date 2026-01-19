@@ -29,7 +29,7 @@
   <br>
 </ul>
 
-### Recent Blog Posts On [Marius-Schroeder.de](https://marius-schroeder.de/blog) 📝
+### Recent Blog Posts On [Marius-Schroeder.de](https://marius-schroeder.de/posts/) 📝
 <!-- MARIUS-SCHROEDER-BLOG-POST-LIST:START -->
 - [Structured Prompting in real projects - checklist &amp; best practices](https://marius-schroeder.de/posts/structured-prompting-in-real-projects-checklist-and-best-practices/)
 - [Combining Upload Progress with API Progress 🚀](https://marius-schroeder.de/posts/combining-upload-progress-with-api-progress/)
