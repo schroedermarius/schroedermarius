@@ -42,13 +42,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Defender for Storage Bicep Fix: Malware Scanning](https://medium.com/medialesson/defender-for-storage-bicep-fix-malware-scanning-547251e53f21?source=rss-4bc650e7a5a6------2)
 - [Knowledge Graphs and AI: Why Semantics Matter Again](https://medium.com/medialesson/knowledge-graphs-and-ai-why-semantics-matter-again-77ff8020b3d4?source=rss-4bc650e7a5a6------2)
 - [Structured Prompting in real projects — checklist &amp; best practices](https://medium.com/medialesson/structured-prompting-in-real-projects-checklist-best-practices-c39fa789856b?source=rss-4bc650e7a5a6------2)
 - [Combining Upload Progress with API Progress](https://medium.com/medialesson/combining-upload-progress-with-api-progress-a6f655d88c81?source=rss-4bc650e7a5a6------2)
 - [JSON vs TOON — A new era of structured input?](https://medium.com/medialesson/json-vs-toon-a-new-era-of-structured-input-19cbb7fc552b?source=rss-4bc650e7a5a6------2)
 - [⚡ Real-Time Progress Updates for Long-Running API Tasks with Server-Sent Events &lpar;SSE&rpar; in ASP.NET](https://medium.com/medialesson/real-time-progress-updates-for-long-running-api-tasks-with-server-sent-events-sse-in-asp-net-1c5fdbac6065?source=rss-4bc650e7a5a6------2)
 - [How to Easily Connect to Amazon S3 with .NET and Dependency Injection: A Complete Guide](https://medium.com/medialesson/how-to-easily-connect-to-amazon-s3-with-net-and-dependency-injection-a-complete-guide-5325dfa6065b?source=rss-4bc650e7a5a6------2)
-- [Fast Excel Template Replacement in .NET — OpenXmlSdk vs ClosedXML](https://medium.com/medialesson/fast-excel-template-replacement-in-net-openxmlsdk-vs-closedxml-088de1079714?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
