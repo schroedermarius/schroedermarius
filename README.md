@@ -19,7 +19,7 @@
 
 <!--   my-info -->
 <br>
-<p>Hi, I'm [Marius-Schroeder.de](https://marius-schroeder.de/), Senior Software Engineer & Team Lead @Medialesson</p>
+<p>Hi, I'm <a href="https://marius-schroeder.de" target="_blank">Marius Schröder</a>, Senior Software Engineer & Team Lead <a href="https://www.medialesson.de" target="_blank">@Medialesson</a></p>
 <ul>
   <li>💻 I love writing code and learn anythings about it</li>
   <li>💻 I am a passionate developer from Germany</li>
