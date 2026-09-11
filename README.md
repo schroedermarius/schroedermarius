@@ -15,16 +15,17 @@
 
 <!--   my-ticker -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marius+Schröder;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marius+Schröder;Welcome+to+My+Profile!;Fachgruppenleiter+Softwareentwicklung+%40+GTÜ;10%2B+years+of+software+engineering+experience;.NET+%2B+Azure+%2B+Cloud+Architecture;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 <!--   my-info -->
 <br>
-<p>Hi, I'm <a href="https://marius-schroeder.de" target="_blank">Marius Schröder</a>, Senior Software Engineer & Team Lead <a href="https://www.medialesson.de" target="_blank">@Medialesson</a></p>
+<p>Hi, I'm <a href="https://marius-schroeder.de" target="_blank">Marius Schröder</a>, Fachgruppenleiter Softwareentwicklung @ <a href="https://www.gtue.de/" target="_blank">GTÜ</a></p>
 <ul>
-  <li>💻 I love writing code and learn anythings about it</li>
-  <li>💻 I am a passionate developer from Germany</li>
+  <li>👥 I lead a software engineering group with a focus on clear priorities, quality, and reliable delivery</li>
+  <li>☁️ My technical focus includes .NET, C#, Azure, cloud architecture, microservices, and CI/CD</li>
+  <li>📝 I write about software engineering, architecture, AI, IoT, and practical engineering leadership</li>
+  <li>🇩🇪 I am a passionate software engineer from Germany</li>
   <li>🏋🏼‍♀️ I am a sport enthusiast</li>
-  <li>📚 I am currently starting to learn Swift and SwiftUI to take a deeper look into native iOS development</li>
   <li>💬 I speak German and English</li>
   <br>
 </ul>
