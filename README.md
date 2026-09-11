@@ -15,31 +15,40 @@
 
 <!--   my-ticker -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marius+Schröder;+Fachgruppenleiter+Softwareentwicklung+@+GTÜ;10%2B+years+of+software+engineering+experience;.NET+%2B+Azure+%2B+Cloud+Architecture;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marius+Schröder;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 <!--   my-info -->
 <br>
-<p>Hi, I'm Marius Schröder, Fachgruppenleiter Softwareentwicklung @ GTÜ</p>
+<p>Hi, I'm <a href="https://marius-schroeder.de" target="_blank">Marius Schröder</a>, Senior Software Engineer & Team Lead <a href="https://www.medialesson.de" target="_blank">@Medialesson</a></p>
 <ul>
-  <li>👥 I lead software engineering teams with a focus on clear priorities, quality, and reliable delivery</li>
-  <li>☁️ My technical focus includes .NET, C#, Azure, cloud architecture, microservices, and CI/CD</li>
-  <li>📝 I write about software engineering, architecture, AI, IoT, and practical engineering leadership</li>
-  <li>🇩🇪 I am a passionate software engineer from Germany</li>
+  <li>💻 I love writing code and learn anythings about it</li>
+  <li>💻 I am a passionate developer from Germany</li>
   <li>🏋🏼‍♀️ I am a sport enthusiast</li>
+  <li>📚 I am currently starting to learn Swift and SwiftUI to take a deeper look into native iOS development</li>
   <li>💬 I speak German and English</li>
   <br>
 </ul>
 
+### Recent Blog Posts On [Marius-Schroeder.de](https://marius-schroeder.de/posts/) 📝
+<!-- MARIUS-SCHROEDER-BLOG-POST-LIST:START -->
+- [🚨 Could not enable on-upload malware scanning in Defender for Storage with Bicep? Here&#39;s what actually fixed it](https://marius-schroeder.de/posts/could-not-enable-on-upload-malware-scanning-in-defender-for-storage-with-bicep-heres-what-actually-fixed-it/)
+- [Knowledge Graphs and AI: Why Semantics Matter Again](https://marius-schroeder.de/posts/knowledge-graphs-and-ai-why-semantics-matter-again/)
+- [Structured Prompting in real projects - checklist &amp; best practices](https://marius-schroeder.de/posts/structured-prompting-in-real-projects-checklist-and-best-practices/)
+- [Combining Upload Progress with API Progress 🚀](https://marius-schroeder.de/posts/combining-upload-progress-with-api-progress/)
+- [JSON vs TOON — A new era of structured input?](https://marius-schroeder.de/posts/json-vs-toon-a-new-era-of-structured-input/)
+- [⚡ Real-Time Progress Updates for Long-Running API Tasks with Server-Sent Events &lpar;SSE&rpar; in ASP.NET Core](https://marius-schroeder.de/posts/real-time-progress-updates-for-long-running-api-tasks-with-server-sent-events-sse-in-asp-net-core/)
+- [How to Easily Connect to Amazon S3 with .NET and Dependency Injection: A Complete Guide](https://marius-schroeder.de/posts/how-to-easily-connect-to-amazon-s3-with-net-and-dependency-injection-a-complete-guide/)
+<!-- MARIUS-SCHROEDER-BLOG-POST-LIST:END -->
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@mariusschroeder) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
-- [Navigating NGRX Effects in Angular: Unraveling the switchMap vs. mergeMap Conundrum](https://medium.com/medialesson/navigating-ngrx-effects-in-angular-unraveling-the-switchmap-vs-mergemap-conundrum-393d65a0dc8f?source=rss-4bc650e7a5a6------2)
-- [Generating a curved text in .NET](https://medium.com/medialesson/generating-a-curved-text-in-net-d8a38209c5e2?source=rss-4bc650e7a5a6------2)
-- [How to deploy your custom image to an Microsoft Azure VM](https://medium.com/medialesson/how-to-deploy-your-custom-image-to-an-microsoft-azure-vm-e1d960e85f58?source=rss-4bc650e7a5a6------2)
-- [How to write your own discord bot on .NET 6](https://medium.com/medialesson/how-to-write-your-own-discord-bot-on-net-6-ac96e40467b8?source=rss-4bc650e7a5a6------2)
-- [Build resilient IoT solutions using multiple connections in Azure IoT Edge gateways](https://medium.com/medialesson/build-resilient-iot-solutions-using-multiple-connections-in-azure-iot-edge-gateways-9787fdb07325?source=rss-4bc650e7a5a6------2)
-- [ESP32 based over-the-air update using Azure IoT Device Twins](https://medium.com/medialesson/esp32-based-over-the-air-update-using-azure-iot-device-twins-aca4ce22e429?source=rss-4bc650e7a5a6------2)
-- [Export SCSS variables](https://medium.com/@mariusschroeder/export-scss-variables-435b6e784302?source=rss-4bc650e7a5a6------2)
+- [Defender for Storage Bicep Fix: Malware Scanning](https://medium.com/medialesson/defender-for-storage-bicep-fix-malware-scanning-547251e53f21?source=rss-4bc650e7a5a6------2)
+- [Knowledge Graphs and AI: Why Semantics Matter Again](https://medium.com/medialesson/knowledge-graphs-and-ai-why-semantics-matter-again-77ff8020b3d4?source=rss-4bc650e7a5a6------2)
+- [Structured Prompting in real projects — checklist &amp; best practices](https://medium.com/medialesson/structured-prompting-in-real-projects-checklist-best-practices-c39fa789856b?source=rss-4bc650e7a5a6------2)
+- [Combining Upload Progress with API Progress](https://medium.com/medialesson/combining-upload-progress-with-api-progress-a6f655d88c81?source=rss-4bc650e7a5a6------2)
+- [JSON vs TOON — A new era of structured input?](https://medium.com/medialesson/json-vs-toon-a-new-era-of-structured-input-19cbb7fc552b?source=rss-4bc650e7a5a6------2)
+- [⚡ Real-Time Progress Updates for Long-Running API Tasks with Server-Sent Events &lpar;SSE&rpar; in ASP.NET](https://medium.com/medialesson/real-time-progress-updates-for-long-running-api-tasks-with-server-sent-events-sse-in-asp-net-1c5fdbac6065?source=rss-4bc650e7a5a6------2)
+- [How to Easily Connect to Amazon S3 with .NET and Dependency Injection: A Complete Guide](https://medium.com/medialesson/how-to-easily-connect-to-amazon-s3-with-net-and-dependency-injection-a-complete-guide-5325dfa6065b?source=rss-4bc650e7a5a6------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 <hr>
@@ -90,7 +99,7 @@
     <img alt="schroedermarius Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=schroedermarius&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
   </div>
   <div align=center>
-      <img alt="schroedermarius Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tsjdev-apps&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
+      <img alt="schroedermarius Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=schroedermarius&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
   </div>
   <br>
 
